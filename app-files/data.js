@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": -0.628326452382252,
           "pitch": 0.14235107893307486,
           "title": "Memorial TJDFT",
-          "quadroImg": "assets/memorial_tjdft.png"      // O quadro em si
+          "quadroImg": "assets/memorial_tjdft.jpg"      // O quadro em si
         }
       ]
     },
@@ -124,15 +124,15 @@ var APP_DATA = {
           "yaw": 1.3623307340365258,
           "pitch": -0.28594498063375795,
           "title": "Deusa da Justiça",
-          "etiquetaImg": "assets/Deusa da Justiça Informação.png", // A imagem da etiqueta
-          "quadroImg": "assets/Deusa da Justiça.png"      // O quadro em si
+          "etiquetaImg": "assets/Deusa da Justiça Informação.jpg", // A imagem da etiqueta
+          "quadroImg": "assets/Deusa da Justiça.jpg"      // O quadro em si
         },
         {
           "yaw": -2.4994380989360145,
           "pitch": -0.21392003073689025,
           "title": "Acesso Negado",
-          "etiquetaImg": "assets/Acesso Negado Informação.png", // A imagem da etiqueta
-          "quadroImg": "assets/Acesso Negado.png"      // O quadro em si
+          "etiquetaImg": "assets/Acesso Negado Informação.jpg", // A imagem da etiqueta
+          "quadroImg": "assets/Acesso Negado.jpg"      // O quadro em si
         }
       ]
     },
@@ -193,7 +193,7 @@ var APP_DATA = {
           "yaw": -0.13679069996249638,
           "pitch": -0.23075937246969502,
           "title": "Busto: Desembargadora Lila Pimenta Duarte",
-          "etiquetaImg": "assets/Busto Desembargadora Lila Pimenta Duarte Informação.png", // A imagem da etiqueta
+          "etiquetaImg": "assets/Busto Desembargadora Lila Pimenta Duarte Informação.jpg", // A imagem da etiqueta
           "quadroImg": "assets/Busto Desembargadora Lila Pimenta Duarte.jpg"      // O quadro em si
         }
       ]
@@ -255,28 +255,28 @@ var APP_DATA = {
           "yaw": -2.108912005416217,
           "pitch": -0.2801220059606173,
           "title": "Festa Popular II",
-          "etiquetaImg": "assets/Festa Popular II Informação.png", // A imagem da etiqueta
-          "quadroImg": "assets/Festa Popular II.png"      // O quadro em si
+          "etiquetaImg": "assets/Festa Popular II Informação.jpg", // A imagem da etiqueta
+          "quadroImg": "assets/Festa Popular II.jpg"      // O quadro em si
         },
         {
           "yaw": -1.4225834870167446,
           "pitch": -0.3307939537445854,
           "title": "STF",
-          "etiquetaImg": "assets/STF Informação.png", // A imagem da etiqueta
-          "quadroImg": "assets/STF.png"   
+          "etiquetaImg": "assets/STF Informação.jpg", // A imagem da etiqueta
+          "quadroImg": "assets/STF.jpg"   
         },
         {
           "yaw": -0.34593367156104904,
           "pitch": -0.2530397610532322,
           "title": "Escultura de Madeira - Deusa da Justiça",
-          "etiquetaImg": "assets/Escultura de Madeira - Deusa da Justiça Informação.png", // A imagem da etiqueta
+          "etiquetaImg": "assets/Escultura de Madeira - Deusa da Justiça Informação.jpg", // A imagem da etiqueta
           "quadroImg": "assets/Escultura de Madeira - Deusa da Justiça.jpg"   
         },
         {
           "yaw": 0.3521821597544861,
           "pitch": -0.233188049192254,
           "title": "A Ariano",
-          "etiquetaImg": "assets/A Ariano Informação.png", // A imagem da etiqueta
+          "etiquetaImg": "assets/A Ariano Informação.jpg", // A imagem da etiqueta
           "quadroImg": "assets/A Ariano.jpg"  
         },
         {
@@ -566,8 +566,8 @@ var APP_DATA = {
           "yaw": -2.4680537146996855,
           "pitch": -0.26055393076574695,
           "title": "São João Bosco",
-          "etiquetaImg": "assets/São João Bosco Informação.png", // A imagem da etiqueta
-          "quadroImg": "assets/São João Bosco.png"      // O quadro em si
+          "etiquetaImg": "assets/São João Bosco Informação.jpg", // A imagem da etiqueta
+          "quadroImg": "assets/São João Bosco.jpg"      // O quadro em si
         },
         {
           "yaw": -1.9335299503546715,
@@ -915,7 +915,7 @@ var APP_DATA = {
           "pitch": -0.32061956336491626,
           "title": "Deusa da Justiça Entalhe de Madeira",
           "etiquetaImg": "assets/deusadajusticainformacao.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Deusa da Justiça Entalhe de Madeira.png"    
+          "quadroImg": "assets/Deusa da Justiça Entalhe de Madeira.jpg"    
         },
         {
           "yaw": -0.48741451586937323,
@@ -1050,7 +1050,7 @@ var APP_DATA = {
           "yaw": 1.5047613726374145,
           "pitch": -0.552078393652609,
           "title": "Quadro Maravilhas do Mundo",
-          "quadroImg": "assets/Quadro Maravilhas do Mundo.png"
+          "quadroImg": "assets/Quadro Maravilhas do Mundo.jpg"
         }
       ]
     },
@@ -1129,7 +1129,7 @@ var APP_DATA = {
           "pitch": -0.1783949357491732,
           "title": "Entalhe em Madeira",
           "etiquetaImg": "assets/Entalhe em Madeira Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Entalhe em Madeira.png"      // O quadro em si
+          "quadroImg": "assets/Entalhe em Madeira.jpg"      // O quadro em si
         }
       ]
     },
@@ -1185,7 +1185,7 @@ var APP_DATA = {
           "pitch": -0.22342920046981973,
           "title": "Quadro Juscelino Kubitschek",
           "etiquetaImg": "assets/quadrojkinformacao.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Quadro Juscelino Kubitschek.png"      // O quadro em si
+          "quadroImg": "assets/Quadro Juscelino Kubitschek.jpg"      // O quadro em si
         },
         {
           "yaw": 0.3785993067173301,
@@ -1393,7 +1393,7 @@ var APP_DATA = {
           "pitch": -0.4185546231776236,
           "title": "Roda Viva",
           "etiquetaImg": "assets/Roda Viva Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Roda Viva.png"      // O quadro em si
+          "quadroImg": "assets/Roda Viva.jpg"      // O quadro em si
         },
         {
           "yaw": 2.485044798270759,
@@ -1557,7 +1557,7 @@ var APP_DATA = {
           "yaw": -0.7171531210020152,
           "pitch": -0.20014796522573342,
           "title": "Busto: Des. Lila Pimenta Duarte",
-          "etiquetaImg": "assets/Busto Desembargadora Lila Pimenta Duarte Informação.png", // A imagem da etiqueta
+          "etiquetaImg": "assets/Busto Desembargadora Lila Pimenta Duarte Informação.jpg", // A imagem da etiqueta
           "quadroImg": "assets/Busto Desembargadora Lila Pimenta Duarte.jpg"      // O quadro em si
         },
         {
@@ -1620,7 +1620,7 @@ var APP_DATA = {
           "pitch": -0.28005722373404573,
           "title": "Menina Massai",
           "etiquetaImg": "assets/Menina Massai Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Menina Massai.png"      // O quadro em si
+          "quadroImg": "assets/Menina Massai.jpg"      // O quadro em si
         },
         {
           "yaw": 1.5424401680475617,
@@ -1682,7 +1682,7 @@ var APP_DATA = {
           "pitch": -0.21440644506033912,
           "title": "Roda Viva",
           "etiquetaImg": "assets/Roda Viva Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Roda Viva.png"      // O quadro em si
+          "quadroImg": "assets/Roda Viva.jpg"      // O quadro em si
         },
         {
           "yaw": -2.160332432236128,
@@ -1707,7 +1707,7 @@ var APP_DATA = {
           "pitch": -0.16199890203534828,
           "title": "Caminhantes",
           "etiquetaImg": "assets/Caminhanetes Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Caminhantes.png"      // O quadro em si
+          "quadroImg": "assets/Caminhantes.jpg"      // O quadro em si
         }
       ]
     },
@@ -1848,7 +1848,7 @@ var APP_DATA = {
           "pitch": -0.14086152747449532,
           "title": "Cuidado para Unir",
           "etiquetaImg": "assets/Cuidado para Unir Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Cuidado para Unir.png"      // O quadro em si
+          "quadroImg": "assets/Cuidado para Unir.jpg"      // O quadro em si
 
         },
         {
@@ -1856,7 +1856,7 @@ var APP_DATA = {
           "pitch": -0.12315014218231113,
           "title": "Quadro com Tapeçaria",
           "etiquetaImg": "assets/Quadro com Tapeçaria Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Quadro com Tapeçaria.png"      // O quadro em si
+          "quadroImg": "assets/Quadro com Tapeçaria.jpg"      // O quadro em si
         },
         {
           "yaw": -0.8354575325921676,
@@ -1996,13 +1996,13 @@ var APP_DATA = {
           "yaw": -2.564970659943345,
           "pitch": 0.12716955516080475,
           "title": "Foto de Pontes de Miranda quando jovem",
-          "quadroImg": "assets/Quadro Pontes de Miranda.png"      // O quadro em si
+          "quadroImg": "assets/Quadro Pontes de Miranda.jpg"      // O quadro em si
         },
         {
           "yaw": -2.233933034230283,
           "pitch": -0.3162582012439401,
           "title": "Falecimento do Des. Pontes de Miranda",
-          "quadroImg": "assets/Falecimento do Des. Pontes de Miranda.png" 
+          "quadroImg": "assets/Falecimento do Des. Pontes de Miranda.jpg" 
         },
         {
           "yaw": -2.02285047666307,
@@ -2021,7 +2021,7 @@ var APP_DATA = {
           "pitch": -0.0007728318327107075,
           "title": "Cadeados",
           "etiquetaImg": "assets/Cadeados Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Cadeados.png"      // O quadro em si
+          "quadroImg": "assets/Cadeados.jpg"      // O quadro em si
         }
       ]
     },
@@ -2083,21 +2083,21 @@ var APP_DATA = {
           "pitch": 0.45606408587815395,
           "title": "Brasília",
           "etiquetaImg": "assets/Brasília Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Brasília.png"      // O quadro em si
+          "quadroImg": "assets/Brasília.jpg"      // O quadro em si
         },
         {
           "yaw": 1.3073479676949002,
           "pitch": -0.04975677587651006,
           "title": "Cidade de Goiás",
           "etiquetaImg": "assets/Cidade de Goiás Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Cidade de Goiás.png"      // O quadro em si
+          "quadroImg": "assets/Cidade de Goiás.jpg"      // O quadro em si
         },
         {
           "yaw": -0.7042226889352055,
           "pitch": -0.21041092601264744,
           "title": "Caminhantes",
           "etiquetaImg": "assets/Caminhanetes Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Caminhantes.png"      // O quadro em si
+          "quadroImg": "assets/Caminhantes.jpg"      // O quadro em si
         },
         {
           "yaw": -0.5609960170583861,
@@ -2366,14 +2366,14 @@ var APP_DATA = {
           "pitch": -0.08025980607996352,
           "title": "Cadeados",
           "etiquetaImg": "assets/Cadeados Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Cadeados.png"      // O quadro em si
+          "quadroImg": "assets/Cadeados.jpg"      // O quadro em si
         },
         {
           "yaw": -1.7427567705589322,
           "pitch": -0.05086474504010141,
           "title": "Sem Título",
           "etiquetaImg": "assets/Sem Título Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Sem Título.png"      // O quadro em si
+          "quadroImg": "assets/Sem Título.jpg"      // O quadro em si
         }
       ]
     },
@@ -2441,14 +2441,14 @@ var APP_DATA = {
           "pitch": -0.33678345879317106,
           "title": "Pássaros",
           "etiquetaImg": "assets/Pássaros Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Pássaros.png"      // O quadro em si
+          "quadroImg": "assets/Pássaros.jpg"      // O quadro em si
         },
         {
           "yaw": 1.3225630483411255,
           "pitch": -0.03655710792273403,
           "title": "Morro",
           "etiquetaImg": "assets/Morro Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Morro.png"      // O quadro em si
+          "quadroImg": "assets/Morro.jpg"      // O quadro em si
         }
       ]
     },
@@ -2710,21 +2710,21 @@ var APP_DATA = {
           "pitch": 0.011392248786322057,
           "title": "Morro e Cais (da série Favela)",
           "etiquetaImg": "assets/Morro e Cais (da série Favela) Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Morro e Cais (da série Favela).png"      // O quadro em si
+          "quadroImg": "assets/Morro e Cais (da série Favela).jpg"      // O quadro em si
         },
         {
           "yaw": 2.43946153984451,
           "pitch": -0.33898879722137565,
           "title": "Coruja do Cerrado e da Sabedoria",
           "etiquetaImg": "assets/Coruja do Cerrado e da Sabedoria Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Coruja do Cerrado e da Sabedoria.png"      // O quadro em si
+          "quadroImg": "assets/Coruja do Cerrado e da Sabedoria.jpg"      // O quadro em si
         },
         {
           "yaw": 1.281725814693898,
           "pitch": -0.3989729740274939,
           "title": "Camadas #5",
           "etiquetaImg": "assets/Camadas5 Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Camadas5.png"      // O quadro em si
+          "quadroImg": "assets/Camadas5.jpg"      // O quadro em si
         }
       ]
     },
@@ -2780,35 +2780,35 @@ var APP_DATA = {
           "pitch": -0.2558135786078619,
           "title": "Adorável Dançarina Espanhola",
           "etiquetaImg": "assets/Adorável Dançarina Espanhola Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Adorável Dançarina Espanhola.png"      // O quadro em si
+          "quadroImg": "assets/Adorável Dançarina Espanhola.jpg"      // O quadro em si
         },
         {
           "yaw": 1.6904392332937972,
           "pitch": -0.13185897761379906,
           "title": "Casinha de Tábuas com Roupas no Varal",
           "etiquetaImg": "assets/Casinha de Tábuas com Roupas no Varal informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Casinha de Tábuas com Roupas no Varal.png"      // O quadro em si
+          "quadroImg": "assets/Casinha de Tábuas com Roupas no Varal.jpg"      // O quadro em si
         },
         {
           "yaw": 1.549413381130524,
           "pitch": 0.3140989975408246,
           "title": "Fulgor: Os Barcos ao Pôr do Sol&nbsp;",
           "etiquetaImg": "assets/Fulgor Os Barcos ao Pôr do Sol informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Fulgor Os Barcos ao Pôr do Sol.png"      // O quadro em si
+          "quadroImg": "assets/Fulgor Os Barcos ao Pôr do Sol.jpg"      // O quadro em si
         },
         {
           "yaw": 1.4103048693607718,
           "pitch": -0.3114159229686848,
           "title": "Pamonha da Mariana - Gostosa e Fresquinha",
           "etiquetaImg": "assets/Pamonha da Mariana - Gostosa e Fresquinha Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Pamonha da Mariana - Gostosa e Fresquinha.png"      // O quadro em si
+          "quadroImg": "assets/Pamonha da Mariana - Gostosa e Fresquinha.jpg"      // O quadro em si
         },
         {
           "yaw": 1.2937974596707136,
           "pitch": 0.619183878975015,
           "title": "Casinha na Montanha",
           "etiquetaImg": "assets/Casinha na Montanha Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Casinha na Montanha.png"    
+          "quadroImg": "assets/Casinha na Montanha.jpg"    
         }
       ]
     },
@@ -2864,7 +2864,7 @@ var APP_DATA = {
           "pitch": -0.10386923870388998,
           "title": "Tragicomédia Cotidiana 5",
           "etiquetaImg": "assets/Tragicomédia Cotidiana 5 Informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Tragicomédia Cotidiana 5.png"      // O quadro em si
+          "quadroImg": "assets/Tragicomédia Cotidiana 5.jpg"      // O quadro em si
 
         },
         {
@@ -2872,14 +2872,14 @@ var APP_DATA = {
           "pitch": 0.39184531747390494,
           "title": "Zen",
           "etiquetaImg": "assets/Zen informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Zen.png"      // O quadro em si
+          "quadroImg": "assets/Zen.jpg"      // O quadro em si
         },
         {
           "yaw": 2.535557853646891,
           "pitch": -0.3959818301003821,
           "title": "Primeiro Amor",
           "etiquetaImg": "assets/Primeiro Amor informação.jpg", // A imagem da etiqueta
-         "quadroImg": "assets/Primeiro Amor.png"      // O quadro em si
+         "quadroImg": "assets/Primeiro Amor.jpg"      // O quadro em si
         },
         {
           "yaw": 1.719086354849301,
@@ -2900,7 +2900,7 @@ var APP_DATA = {
           "pitch": -0.4407891054198636,
           "title": "Formiga Livre Interpretação",
           "etiquetaImg": "assets/Formiga Livre Interpretação informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Formiga Livre Interpretação.png"  
+          "quadroImg": "assets/Formiga Livre Interpretação.jpg"  
         }
       ]
     },
@@ -2961,21 +2961,21 @@ var APP_DATA = {
           "yaw": 2.1575586773596127,
           "pitch": -0.013154136766139857,
           "title": "Galeria de Desembargadores 5",
-          "quadroImg": "assets/Galeria de Desembargadores 5.png"      // O quadro em si
+          "quadroImg": "assets/Galeria de Desembargadores 5.jpg"      // O quadro em si
         },
         {
           "yaw": -0.9415061048198154,
           "pitch": -0.21173917482732385,
           "title": "Polis 4",
           "etiquetaImg": "assets/Polis 4 informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Polis 4.png"      // O quadro em si
+          "quadroImg": "assets/Polis 4.jpg"      // O quadro em si
         },
         {
           "yaw": -0.8104945654433173,
           "pitch": 0.015769548875793404,
           "title": "Fosso",
           "etiquetaImg": "assets/Fosso informação.jpg", // A imagem da etiqueta
-          "quadroImg": "assets/Fosso.png"      // O quadro em si
+          "quadroImg": "assets/Fosso.jpg"      // O quadro em si
         },
         {
           "yaw": -1.3197923136077385,
@@ -2993,7 +2993,7 @@ var APP_DATA = {
           "yaw": -1.9451017802824033,
           "pitch": -0.002398587065604474,
           "title": "Galeria de Desembargadores 7",
-          "quadroImg": "assets/Galeria de Desembargadores 7.png" 
+          "quadroImg": "assets/Galeria de Desembargadores 7.jpg" 
         }
       ]
     }
