@@ -831,7 +831,7 @@ body.view-control-buttons .viewControlButton {
 
 /* Aumenta a largura máxima do pop-up para caber melhor a imagem */
 .info-hotspot-modal, .info-hotspot {
-  max-width: 400px !important; 
+  max-width: 1000px !important; 
 }
 
 /* Garante que a imagem se ajuste ao espaço */
